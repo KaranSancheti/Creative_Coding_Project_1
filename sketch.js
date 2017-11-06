@@ -1,3 +1,7 @@
+//Adjective - Transient
+//Meaning - lasting only for a short time; impermanent.
+//A transient mood is one that passes quickly. As a noun, transient means a person who passes through a place, staying only briefly.
+
 class Ring {
   constructor(size, col) {
     this.size = size;
